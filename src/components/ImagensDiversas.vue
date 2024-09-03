@@ -6,7 +6,8 @@
                    @/assets/img3-800w.png 800w" 
            sizes="(max-width: 600px) 400px, 800px" 
            width="800" 
-           height="400">
+           height="400"
+           alt="arara vermelha com detalhes verdes e azuis voando por cima d'agua">
     </p>
     <section id="imagens_baixo">
       <img src="@/assets/img4.jpg"
@@ -15,14 +16,16 @@
            sizes="(max-width: 600px) 200px, 400px" 
            width="400" 
            height="250" 
-           class="pequenas">
+           class="pequenas"
+           alt="um grupo de hienas, marrons e pretas, prestes a caçar">
       <img src="@/assets/img5.jpg"
            srcset="@/assets/img5-200w.jpg 200w,
                    @/assets/img5-400w.jpg 400w" 
            sizes="(max-width: 600px) 200px, 400px" 
            width="400" 
            height="250" 
-           class="pequenas">
+           class="pequenas"
+           alt="um tigre deitado descansando">
     </section>
   </div>
 </template>
